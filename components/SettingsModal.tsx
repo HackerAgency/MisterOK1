@@ -52,7 +52,7 @@ const SettingsModal: React.FC<SettingsModalProps> = ({ onClose }) => {
         </div>
         
         <div className="mt-6 text-center text-[10px] text-gray-600">
-            DeepSearch AI v2.0 • Powered by Google Gemini
+            ОкЪ Эксперт v2.0 • Powered by Google Gemini
         </div>
       </div>
     </div>
